@@ -8,7 +8,7 @@
 
 ## Connect with me
 
-[![Linked In](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-al-omari-49b99311b)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-al-omari-49b99311b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mo.omari862@gmail.com)
 
 <br>
@@ -68,7 +68,7 @@
 
 <br>
 
-[![roadmap.sh](https://roadmap.sh/card/tall/67aa2a1bf8633434824aaa08?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/67aa2a1bf8633434824aaa08?variant=dark)](https://roadmap.sh)
 
 <br>
 
