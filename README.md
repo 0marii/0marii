@@ -68,7 +68,7 @@
 
 <br>
 
-[![roadmap.sh](https://roadmap.sh/card/wide/67aa2a1bf8633434824aaa08?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/67aa2a1bf8633434824aaa08?variant=dark&roadmaps=)](https://roadmap.sh)
 
 <br>
 
