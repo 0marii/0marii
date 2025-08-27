@@ -59,6 +59,10 @@
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
     </a>
+     &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://docs.oracle.com/en/java/javase/index.html" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    </a>
 </p>
 
 <br>
