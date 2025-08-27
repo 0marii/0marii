@@ -2,7 +2,6 @@
 
 # Hi 👋, I'm Mohammed Al-Omari
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-9086-13a0b5ad2990.gif" alt="Coding GIF" width="80%">
 
 <br>
 
