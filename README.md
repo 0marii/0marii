@@ -63,6 +63,10 @@
     <a href="https://docs.oracle.com/en/java/javase/index.html" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://vitejs.dev/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40"/>
+</a>
 </p>
 
 <br>
