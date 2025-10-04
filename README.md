@@ -45,7 +45,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp; 
     <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+        <img src="https://icons8.com/icon/ldQqWiIRv9bc/bootstrap" alt="Bootstrap" width="40" height="40"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://tailwindcss.com/" target="_blank">
