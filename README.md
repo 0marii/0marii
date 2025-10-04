@@ -67,7 +67,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite.js" width="40" height="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-
+<a href="https://eslint.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESLint" width="40" height="40"/>
+</a>
 </p>
 
 <br>
