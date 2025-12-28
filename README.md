@@ -41,7 +41,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp; 
     <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp; 
     <a href="https://getbootstrap.com" target="_blank">
