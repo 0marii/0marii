@@ -20,7 +20,7 @@
 ## Languages and Tools
 
 <p>
-    <a href="https://nodejs.org/en/docs/" target="_blank">
+ <a href="https://nodejs.org/en/docs/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
 </a>
        &nbsp;&nbsp;&nbsp;&nbsp; 
