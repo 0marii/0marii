@@ -89,9 +89,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" alt="n8n" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://n8n.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/n8n/FF6D5A" alt="n8n" width="40" height="40"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
