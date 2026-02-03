@@ -1,6 +1,7 @@
 <div align="center">
 
-# Hi, I’m Mohammed — Software Engineer focused on backend web development
+# Hi, I’m Mohammed Al-Omari
+<br>Software Engineer focused on backend web development
 
 
 <br>
