@@ -20,6 +20,20 @@
 ## Languages and Tools
 
 <p>
+ <a href="https://nestjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://typeorm.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="TypeORM" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://n8n.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.svg" alt="n8n" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://nodejs.org/en/docs/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
 </a>
