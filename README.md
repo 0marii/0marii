@@ -29,9 +29,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="TypeORM" width="40" height="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://n8n.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.svg" alt="n8n" width="40" height="40"/>
+    <img src="https://static.ie.u-ryukyu.ac.jp/developer-icons/icons/n8n/n8n-original.svg" alt="n8n" width="40" height="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://nodejs.org/en/docs/" target="_blank">
