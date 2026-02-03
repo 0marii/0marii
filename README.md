@@ -19,25 +19,50 @@
 
 ## Languages and Tools
 
-<p>
- <a href="https://nestjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<p><h3 align="left">Languages and Tools</h3>
+<p align="left">
 
-<a href="https://typeorm.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="TypeORM" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://nestjs.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/> 
+  </a>&nbsp;
+  <a href="https://nodejs.org/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+  </a>&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>&nbsp;
+  <a href="https://typeorm.io/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="typeorm" width="40" height="40"/> 
+  </a>&nbsp;
 
-<a href="https://n8n.io/" target="_blank">
-    <img src="https://static.ie.u-ryukyu.ac.jp/developer-icons/icons/n8n/n8n-original.svg" alt="n8n" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>&nbsp;
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
+  </a>&nbsp;
+  <a href="https://n8n.io/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" alt="n8n" width="40" height="40"/> 
+  </a>&nbsp;
+
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+  </a>&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> 
+  </a>&nbsp;
+
+  <a href="https://www.postman.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" alt="postman" width="40" height="40"/> 
+  </a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  </a>&nbsp;
+  <a href="https://axios-http.com/" target="_blank"> 
+    <img src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-30c94c0444c9.png" alt="axios" width="40" height="40"/> 
+  </a>&nbsp;
+
+</p>
  <a href="https://nodejs.org/en/docs/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
 </a>
