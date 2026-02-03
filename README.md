@@ -18,9 +18,8 @@
 <br>
 
 ## Languages and Tools
-
-<h3 align="left">Languages and Tools</h3>
-<p align="left">
+<br>
+<p>
   <a href="https://nestjs.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" width="40" height="40"/>
   </a>&nbsp;&nbsp;
@@ -80,20 +79,20 @@
   <a href="https://www.w3schools.com/html/default.asp" target="_blank">
     <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+   <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
+    </a>&nbsp;&nbsp;
   <a href="https://vitejs.dev/" target="_blank">
     <img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://jquery.com/" target="_blank">
     <img src="https://cdn
-
+</p>
 <br>
 
 ---
 
-<br>
+<br><br><br>
 
 [![roadmap.sh](https://roadmap.sh/card/tall/67aa2a1bf8633434824aaa08?variant=dark&roadmaps=)](https://roadmap.sh)
 
