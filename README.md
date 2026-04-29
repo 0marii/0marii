@@ -51,9 +51,9 @@ open_to: Collaborating on innovative backend & full-stack projects
 **Automation & Libraries**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n,axios" />
 </p>
+
 
 **Game Development**
 
