@@ -4,7 +4,7 @@
   <a href="mailto:mo.omari862@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://jo.linkedin.com/in/alomari-se"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://portfolio-five-zeta-7p70qjrsl3.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" /></a>
-  <img src="https://komarev.com/ghpvc/?username=0marii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
 </p>
 
 ---
@@ -39,13 +39,26 @@ open_to: Collaborating on innovative backend & full-stack projects
 **Database & ORM**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sequelize" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sequelize" />
 </p>
 
 **DevOps & Tools**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman" />
+</p>
+
+**Automation & Libraries**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+</p>
+
+**Game Development**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity" />
 </p>
 
 ---
