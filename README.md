@@ -61,25 +61,8 @@ open_to: Collaborating on innovative backend & full-stack projects
   <img src="https://skillicons.dev/icons?i=unity" />
 </p>
 
----
-
-### 📊 GitHub Stats
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0marii&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="45%" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-<a href="https://github.com/0marii/syncflow-event-driven-order-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0marii&repo=syncflow-event-driven-order-system&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" /></a>
-<a href="https://github.com/0marii/Jira-Integration-API-with-Node.js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0marii&repo=Jira-Integration-API-with-Node.js&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" /></a>
-<a href="https://github.com/0marii/smoking_cessation_clinic_just"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0marii&repo=smoking_cessation_clinic_just&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" /></a>
-<a href="https://github.com/0marii/Wordle-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0marii&repo=Wordle-game&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" /></a>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=100&section=footer" width="100%" />
