@@ -39,7 +39,7 @@ open_to: Collaborating on innovative backend & full-stack projects
 **Database & ORM**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sequelize" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sequelize" />
 </p>
 
 **DevOps & Tools**
