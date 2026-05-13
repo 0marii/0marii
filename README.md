@@ -14,10 +14,10 @@
 ```yaml
 name: Mohammed Al-Omari
 location: Amman, Jordan
-role: Software Engineer
+role: Full-Stack Engineer
 focus: Scalable Backend Architecture
-currently_building: Event-driven systems with NestJS & TypeScript
-open_to: Collaborating on innovative backend & full-stack projects
+currently_building: Syncra — a production-grade real-time chat platform
+open_to:  Collaborating on backend-heavy or full-stack projects
 ```
 
 ---
