@@ -16,8 +16,6 @@ name: Mohammed Al-Omari
 location: Amman, Jordan
 role: Full-Stack Engineer
 focus: Scalable Backend Architecture
-currently_building: Syncra — a production-grade real-time chat platform
-open_to:  Collaborating on backend-heavy or full-stack projects
 ```
 
 ---
